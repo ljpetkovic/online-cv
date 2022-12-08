@@ -102,10 +102,10 @@ experiences:
         company: Sorbonne Université, équipe-projet ObTIC
         details: |
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
+      - role: Intervenante externe
+        time: 2021 -
+        company: Université de Genève, Faculté de psychologie et des sciences de l'éducation
+        details: | projet idEA, d’annotation linguistique, sous la direction de Dre Joanna Blochowiak
 
       - role: UI Developer
         time: 2012 - 2014
@@ -120,7 +120,7 @@ publications:
       - title: Impact de la correction automatique de l’OCR/HTR sur la tâche de reconnaissance d’entités nommées dans un corpus bruité.
         link: "http://caio-corro.fr/pdf/robustal2022.pdf#page=22"
         authors: Petkovic, Lj.
-        conference: Journée d’étude sur la robustesse des systemes de TAL (Robustal22)<br>, Maison de la recherche, Paris (France), 25/11/2022
+        conference: Journée d’étude sur la robustesse des systemes de TAL (Robustal22),<br>Maison de la recherche, Paris (France), 25/11/2022
 
       #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         #link: "#"
