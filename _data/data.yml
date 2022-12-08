@@ -65,13 +65,6 @@ career-profile:
       Humanités numériques : numérisation des données patrimoniales (OCR/HTR), structuration des
       données en TEI-XML, publication des éditions numériques interrogeables<br>
       Traitement automatique des langues : fouille de textes, linguistique computationnelle<br>
-      Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
-      Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et 
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, 
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
-      totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-       dicta sunt explicabo.
 education:
     title: Education
     info:
@@ -127,8 +120,7 @@ publications:
       - title: Impact de la correction automatique de l’OCR/HTR sur la tâche de reconnaissance d’entités nommées dans un corpus bruité.
         link: "http://caio-corro.fr/pdf/robustal2022.pdf#page=22"
         authors: Petkovic, Lj.
-        conference: Journée d’étude sur la robustesse des systemes de TAL (Robustal22)
-        conference: Maison de la recherche, Paris (France), 25/11/2022
+        conference: Journée d’étude sur la robustesse des systemes de TAL (Robustal22)<br>, Maison de la recherche, Paris (France), 25/11/2022
 
       #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         #link: "#"
