@@ -54,14 +54,14 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Intérêts scientifiques
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Mes recherches portent sur les humanités numériques et le traitement automatique des langues. Je
+      suis particulièrement intéressée par les méthodes de diffusion, de partage et de valorisation des fonds
+      patrimoniaux en vue du repérage des circulations des savoirs.<br>
+      Humanités numériques : numérisation des données patrimoniales (OCR/HTR), structuration des
+      données en TEI-XML, publication des éditions numériques interrogeables<br>
+      Traitement automatique des langues : fouille de textes, linguistique computationnelle
 education:
     title: Education
     info:
