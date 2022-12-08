@@ -125,11 +125,11 @@ education:
             - Bullet point
             
 experiences:
-    title: Experiences
+    title: Expérience professionnelle
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Doctorante contractuelle
+        time: 2021 - 
+        company: Sorbonne Université, équipe-projet ObTIC
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -172,17 +172,17 @@ publications:
       - title: Impact de la correction automatique de l’OCR/HTR sur la tâche de reconnaissance d’entités nommées dans un corpus bruité.
         link: "http://caio-corro.fr/pdf/robustal2022.pdf#page=22"
         authors: Petkovic, Lj.
-        conference: Journée d’étude sur la robustesse des systemes de TAL (Robustal22)
+        conference: Journée d’étude sur la robustesse des systemes de TAL (Robustal22), Maison de la recherche, Paris (France), 25/11/2022
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        #link: "#"
+        #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      #- title: A syntax directed compiler for Algol 60
+        #link: "#"
+        #authors: Edgar T. Irons
+        #conference: "Comm. ACM 4 (1961), 51–55"
         
 #projects:
     #title: Projects
