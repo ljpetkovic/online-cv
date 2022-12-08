@@ -64,7 +64,14 @@ career-profile:
       patrimoniaux en vue du repérage des circulations des savoirs.<br>
       Humanités numériques : numérisation des données patrimoniales (OCR/HTR), structuration des
       données en TEI-XML, publication des éditions numériques interrogeables<br>
-      Traitement automatique des langues : fouille de textes, linguistique computationnelle
+      Traitement automatique des langues : fouille de textes, linguistique computationnelle<br>
+      Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+      Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et 
+      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, 
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. 
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, 
+      totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
+       dicta sunt explicabo.
 education:
     title: Education
     info:
