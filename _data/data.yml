@@ -61,10 +61,10 @@ career-profile:
     summary: |
       Mes recherches portent sur les humanités numériques et le traitement automatique des langues. Je
       suis particulièrement intéressée par les méthodes de diffusion, de partage et de valorisation des fonds
-      patrimoniaux en vue du repérage des circulations des savoirs.<br>
+      patrimoniaux en vue du repérage des circulations des savoirs.
       Humanités numériques : numérisation des données patrimoniales (OCR/HTR), structuration des
-      données en TEI-XML, publication des éditions numériques interrogeables<br>
-      Traitement automatique des langues : fouille de textes, linguistique computationnelle<br>
+      données en TEI-XML, publication des éditions numériques interrogeables
+      Traitement automatique des langues : fouille de textes, linguistique computationnelle
 education:
     title: Education
     info:
@@ -111,6 +111,11 @@ experiences:
         time: 2021
         company: Observatoire de la Vie Littéraire (labex OBVIL), Sorbonne Université, Paris (France)
         details: Projet de la Très Grande Bibliothèque (TGB), sous la direction de Dr Motasem Alrahabi
+        
+      - role: Opératrice de saisie de sources
+        time: 2021
+        company: Université de Genève (Suisse), Faculté des Lettres, Chaire des Humanités numériques 
+        details: Projet FNS Visual Contagions (catalogues d’expositions, OCR-XML-TEI-CSV), sous la direction de la Prof. Dre Béatrice Joyeux-Prunel
 
             
 publications:
