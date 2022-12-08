@@ -177,8 +177,10 @@ p {
     margin-bottom: 60px;
   }
   .career-profile {
-    text-align: justify;
-  }
+    .item {
+      margin-bottom: 30px;
+      text-align: justify;
+    }
   .experiences-section,
   .educations-section {
     .item {

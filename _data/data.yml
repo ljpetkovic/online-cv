@@ -99,18 +99,18 @@ experiences:
     info:
       - role: Doctorante contractuelle
         time: 2021 - 
-        company: Sorbonne Université, équipe-projet ObTIC
+        company: Sorbonne Université, équipe-projet ObTIC, Paris (France)
         details: |
 
       - role: Intervenante externe
         time: 2021 -
-        company: Université de Genève, Faculté de psychologie et des sciences de l'éducation
-        details: projet idEA, d’annotation linguistique, sous la direction de Dre Joanna Blochowiak
+        company: Université de Genève (Suisse), Faculté de psychologie et des sciences de l'éducation
+        details: Projet idEA, d’annotation linguistique, sous la direction de Dre Joanna Blochowiak
 
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
+      - role: Stagiaire
+        time: 2021
+        company: Observatoire de la Vie Littéraire (labex OBVIL), Sorbonne Université, Paris (France)
+        details: Projet de la Très Grande Bibliothèque (TGB), sous la direction de Dr Motasem Alrahabi
 
             
 publications:
