@@ -237,6 +237,12 @@ skills:
     toolset:
       - name: Python
         level: 90%
+        
+      - name: Git
+        level: 90%
+      
+      - name: LaTeX
+        level: 90%
 
       - name: HTML5 & CSS
         level: 90%
