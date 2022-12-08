@@ -30,27 +30,30 @@ sidebar:
     pdf: https://drive.google.com/file/d/1n5eqF9dvuAAaQv-2GWSh2k_r5K12rJMN/view?usp=sharing
 
     languages:
-      title: Languages
+      title: Langues
       info:
-        - idiom: English
-          level: Native
+        - idiom: serbe
+          level: langue maternelle
 
-        - idiom: French
-          level: Professional
+        - idiom: français
+          level: courant
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: anglais
+          level: courant
+          
+        - idiom: portugais
+          level: intermédiaire
 
     interests:
-      title: Interests
+      title: Intérêts personnels
       info:
-        - item: Climbing
+        - item: musique
           link:
 
-        - item: Snowboarding
+        - item: taekwondo
           link:
 
-        - item: Cooking
+        - item: voyages
           link:
 
 career-profile:
@@ -168,7 +171,7 @@ publications:
     papers:
       - title: Impact de la correction automatique de l’OCR/HTR sur la tâche de reconnaissance d’entités nommées dans un corpus bruité.
         link: "http://caio-corro.fr/pdf/robustal2022.pdf#page=22"
-        authors: Ljudmila Petkovic
+        authors: Petkovic, Lj.
         conference: Journée d’étude sur la robustesse des systemes de TAL (Robustal22)
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
@@ -229,26 +232,17 @@ publications:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Compétences techniques
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 90%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        level: 90%
+        
+      - name: XML & XSLT
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
