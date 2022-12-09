@@ -61,17 +61,20 @@ career-profile:
     summary: |
       Mes recherches portent sur les humanités numériques et le traitement automatique des langues. Je
       suis particulièrement intéressée par les méthodes de diffusion, de partage et de valorisation des fonds
-      patrimoniaux en vue du repérage des circulations des savoirs.
+      patrimoniaux en vue du repérage des circulations des savoirs.<br>
       Humanités numériques : numérisation des données patrimoniales (OCR/HTR), structuration des
-      données en TEI-XML, publication des éditions numériques interrogeables
+      données en TEI-XML, publication des éditions numériques interrogeables<br>
       Traitement automatique des langues : fouille de textes, linguistique computationnelle
 education:
     title: Education
     info:
       - degree: Doctorat en humanités numériques
-        university: Sorbonne Université
+        university: Sorbonne Université, Paris (France)<br>
+        Faculté des Lettres, École doctorale III « Littératures françaises et comparée » (ED 019)<br>
+        CELLF (Centre d’étude de la langue et des littératures françaises)
         time: 2021 - 
-        details: |
+        details: Projet OPUS (<br>Intitulé de thèse : « Dans les petits papiers de Charcot : de l'expérimentation aux prémisses de la neurologie moderne »<br>
+        sous la direction de Prof. Dr Glenn Roe et de Dr Motasem Alrahabi
 
       - degree: Certificat de spécialisation en linguistique
         university: Université de Genève
