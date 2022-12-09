@@ -147,6 +147,30 @@ publications:
         authors: Gabay, S., Petkovic, Lj., Bartz, A., Levenson, M. G., et du Noyer, L. R.
         conference: "Humanistica 2021, mai 2021, Rennes (France)"
         
+      - title: "Quantifying the Unknown : How many manuscripts of the marquise de Sévigné still exist ?"
+        link: "https://hal.archives-ouvertes.fr/hal-02898929"
+        authors: Gabay, S., du Noyer, L. R., Levenson, M. G., Petkovic, Lj. et Bartz, A.
+        conference: Digital Humanities DH2020, ADHO, juillet 2020, Ottawa (Canada)
+        
+      - title: "Creation and Analysis of the Yugoslav Rock Song Lyrics Corpus from 1967 to 2003"
+        link: "https://hal.archives-ouvertes.fr/hal-03091121"
+        authors: Petkovic, Lj.
+        conference: Infotheca – Journal for Digital Humanities, 19(1), pp. 5-29
+        
+      - title: "Utilisation de la plateforme en ligne Moodle dans l’enseignement réformé du Département d’études néo-helléniques de la Faculté de Philologie à l’Université de Belgrade"
+        link: "https://hal.archives-ouvertes.fr/hal-03091176"
+        authors: Petkovic, Lj.
+        conference: "Metodički vidici, 9(9), pp. 179-200"
+        
+      - title: "Implémentation de techniques de fouille de textes dans le langage de programmation Python en utilisant le package NLTK"  
+        link: "https://hal.archives-ouvertes.fr/hal-03091167"
+        authors: Petkovic, Lj.
+        conference: "2018 26th Telecommunications Forum (TELFOR 2018), pp. 975-979. IEEE."
+        
+      - title: "(D’une publicité à la plateforme Moodle – un exemple de bonne pratique dans l’enseignement du grec moderne comme langue étrangère"
+        link: "https://drive.google.com/file/d/1rzU5Gk8ba-nhAWup5Z5jAjHeKdHT3TKA/view"
+        authors: Stojicic, V., Petkovic, Lj.
+        conference: "Papier présenté au 6e congrès international « La linguistique appliquée aujourd’hui – langue, littérature et interdisciplinarité », Université de Belgrade (Serbie), Faculté de Philologie, 12–13.10.2018."
 #projects:
     #title: Projects
     #intro: >
