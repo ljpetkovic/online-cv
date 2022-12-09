@@ -65,9 +65,9 @@ career-profile:
       Mes recherches portent sur les humanités numériques et le traitement automatique des langues. Je
       suis particulièrement intéressée par les méthodes de diffusion, de partage et de valorisation des fonds
       patrimoniaux en vue du repérage des circulations des savoirs.
-      - Humanités numériques : numérisation des données patrimoniales (OCR/HTR), structuration des
+      - **Humanités numériques** : numérisation des données patrimoniales (OCR/HTR), structuration des
       données en TEI-XML, publication des éditions numériques interrogeables
-      - Traitement automatique des langues : fouille de textes, linguistique computationnelle
+      - **Traitement automatique des langues** : fouille de textes, linguistique computationnelle
 education:
     title: Education
     info:
