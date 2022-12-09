@@ -181,6 +181,7 @@ p {
   .educations-section {
     .item {
       margin-bottom: 30px;
+      text-align: left;
     }
   }
   .upper-row {
@@ -239,13 +240,16 @@ p {
     font-style: italic;
     color: $text-grey;
     margin-bottom: 1px;
+    font-size: 14px;
   }
   .publications-section {
     .intro {
       margin-bottom: 30px;
+      font-size: 12px;
     }
     .item {
       margin-bottom: 15px;
+      font-size: 12px;
     }
   }
 }
