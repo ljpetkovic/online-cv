@@ -12,8 +12,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ljudmila.petkovic@gmail.com
-    phone: +33 7 68 81 83 47
+    email: prenom.nom@gmail.com
+    # phone: +33 7 68 81 83 47
     timezone: Paris, France (GMT+1)
     citizenship:
     website: ljudmila-petkovic #do not add http://
