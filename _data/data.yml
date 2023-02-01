@@ -100,6 +100,11 @@ education:
 experiences:
     title: Expérience professionnelle
     info:
+      - role: Chargée de cours « Cultures numériques avancées »,pour la mineure « Humanités numériques »
+        time: 2023
+        company: Sorbonne Nouvelle, Paris (France), UFR LLD - Institut de Linguistique et Phonétique Générales et Appliquées (ILPGA)
+        details: 24h TD
+        
       - role: Doctorante contractuelle
         time: 2021 - 
         company: Sorbonne Université, Paris (France)<br>
