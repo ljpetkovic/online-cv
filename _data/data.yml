@@ -139,7 +139,7 @@ publications:
         link: "http://caio-corro.fr/pdf/robustal2022.pdf#page=22"
         authors: Petkovic, Lj.
         # conference: Journée d’étude sur la robustesse des systemes de TAL (Robustal22)<br>Maison de la recherche, Paris (France), 25/11/2022
-        journal: _Journal of Information Sciences 21_(2), pp. 1-18 [à paraître].
+        conference: _Journal of Information Sciences 21_(2), pp. 1-18 [à paraître].
 
       - title: Toolbox &#58; une chaîne de traitement de corpus pour les humanités numériques
         link: "https://hal.archives-ouvertes.fr/hal-03701464"
