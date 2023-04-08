@@ -136,10 +136,10 @@ publications:
     # intro: |
     papers:
       - title: Impact de la correction automatique de l’OCR/HTR sur la tâche de reconnaissance d’entités nommées dans un corpus bruité
-        link: "http://caio-corro.fr/pdf/robustal2022.pdf#page=22"
+        link: "https://doi.org/10.34874/IMIST.PRSM/jis-v21i2.36599"
         authors: Petkovic, Lj., Alrahabi M., et Roe, G.
         # conference: Journée d’étude sur la robustesse des systemes de TAL (Robustal22)<br>Maison de la recherche, Paris (France), 25/11/2022
-        conference: Journal of Information Sciences 21(2), pp. 1-18 [à paraître].
+        conference: Journal of Information Sciences 21(2), pp. 1-18.
 
       - title: Toolbox &#58; une chaîne de traitement de corpus pour les humanités numériques
         link: "https://hal.archives-ouvertes.fr/hal-03701464"
