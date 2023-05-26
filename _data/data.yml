@@ -139,7 +139,7 @@ publications:
     # intro: |
     papers:
         
-      - title: Circulation du discours médical de Jean-Martin Charcot : premières observations
+      - title: Circulation du discours médical de Jean-Martin Charcot \: premières observations
         link: "https://hal.science/hal-04107099"
         authors: Petkovic, Lj., Alrahabi M., et Roe, G.
         # conference: Journée d’étude sur la robustesse des systemes de TAL (Robustal22)<br>Maison de la recherche, Paris (France), 25/11/2022
