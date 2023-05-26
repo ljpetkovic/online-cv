@@ -137,13 +137,12 @@ experiences:
 publications:
     title: Publications
     # intro: |
-    papers:
-        
+    papers:    
       - title: Circulation du discours médical de Jean-Martin Charcot \: premières observations
         link: "https://hal.science/hal-04107099"
         authors: Petkovic, Lj., Alrahabi M., et Roe, G.
         # conference: Journée d’étude sur la robustesse des systemes de TAL (Robustal22)<br>Maison de la recherche, Paris (France), 25/11/2022
-        conference: Humanistica 2023, Humanistica, June 2023, Genève, Suisse.
+        conference: Humanistica 2023, Humanistica, juin 2023, Genève, Suisse.
     
       - title: Impact de la correction automatique de l’OCR/HTR sur la tâche de reconnaissance d’entités nommées dans un corpus bruité
         link: "https://doi.org/10.34874/IMIST.PRSM/jis-v21i2.36599"
